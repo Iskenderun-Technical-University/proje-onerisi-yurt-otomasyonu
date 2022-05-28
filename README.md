@@ -41,6 +41,7 @@ Sevgi Başçeken
 11-Tasarım düzenlenecek.
 
 
+![Ekran Görüntüsü (697)](https://user-images.githubusercontent.com/103395080/170826695-26e98372-30c9-4a74-8b98-51a933523e53.png)
 
 
 

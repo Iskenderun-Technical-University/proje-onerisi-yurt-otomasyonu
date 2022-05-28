@@ -41,6 +41,9 @@ Sevgi Başçeken
 11-Tasarım düzenlenecek.
 
 
+# Yazılım Gereksinim Analizi
+
+[yazilim-gereksinim-analizi.pdf](https://github.com/Iskenderun-Technical-University/proje-onerisi-yurt-otomasyonu/files/8791429/yazilim-gereksinim-analizi.pdf)
 
 
 

@@ -8,7 +8,7 @@ KULLANACAĞIM DİL : C#
 
 KULLANACAĞIM VERİTABANI : Microsoft SQL Server
 
-# İş Yönetimi
+## İş Yönetimi
 
 1- Veritabanı oluşturulacak.Tablolar hazırlanacak ve düzenlenecek.(Sevgi Başçeken)
 
@@ -42,12 +42,12 @@ Sevgi Başçeken
 
 
 
-# USE-CASE DIAGRAM
+## USE-CASE DIAGRAM
 
 ![Uml_Diagram](https://user-images.githubusercontent.com/103395080/170873688-bda854c9-0dcb-44ce-afe7-a83a511dcd4a.jpg)
 
 
-# Yazılım Gereksinim Analizi
+## Yazılım Gereksinim Analizi
 
 [yazilim-gereksinim-analizi.pdf](https://github.com/Iskenderun-Technical-University/proje-onerisi-yurt-otomasyonu/files/8791433/yazilim-gereksinim-analizi.pdf)
 

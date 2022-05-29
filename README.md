@@ -44,8 +44,7 @@ Sevgi Başçeken(202523033)
 
 ## CLASS DIAGRAM
 
-![UML+Class+Diagram+(1)](https://user-images.githubusercontent.com/103395080/170888631-a4b634d3-1f3c-451e-ae73-d5ae8b12747b.png)
-
+![UML Class Diagram (1)](https://user-images.githubusercontent.com/103395080/170888670-93f86eb8-f0b7-4db6-8632-8bc536c83cff.jpg)
 
 
 ## USE-CASE DIAGRAM

@@ -52,6 +52,15 @@ Sevgi Başçeken(202523033)
 [yazilim-gereksinim-analizi.pdf](https://github.com/Iskenderun-Technical-University/proje-onerisi-yurt-otomasyonu/files/8791433/yazilim-gereksinim-analizi.pdf)
 
 
+## GİRİŞ EKRANI TASARIMI
+
+![2](https://user-images.githubusercontent.com/103395080/170886697-0c72f003-b95d-40a1-917f-09a85d6e2ead.png)
+
+## ANA FORM TASARIMI
+
+![1](https://user-images.githubusercontent.com/103395080/170886709-85f0b501-49c4-4ef6-8e55-540b259764be.png)
+
+
 
 
 

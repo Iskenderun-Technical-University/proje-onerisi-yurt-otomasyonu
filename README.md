@@ -16,7 +16,7 @@ KULLANACAĞIM VERİTABANI : Microsoft SQL Server
 
 3- Web arayüzü tasarımı oluşturulacak.(Sevgi Başçeken)
 
-Sevgi Başçeken
+Sevgi Başçeken(202523033)
 
 1-Veritabanı yönetim sistemi kurulacak.
 

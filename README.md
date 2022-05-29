@@ -41,9 +41,18 @@ Sevgi Başçeken
 11-Tasarım düzenlenecek.
 
 
+
+# USE-CASE DIAGRAM
+
+![Uml_Diagram](https://user-images.githubusercontent.com/103395080/170873688-bda854c9-0dcb-44ce-afe7-a83a511dcd4a.jpg)
+
+
 # Yazılım Gereksinim Analizi
 
 [yazilim-gereksinim-analizi.pdf](https://github.com/Iskenderun-Technical-University/proje-onerisi-yurt-otomasyonu/files/8791433/yazilim-gereksinim-analizi.pdf)
+
+
+
 
 
 
